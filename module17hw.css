@@ -1,0 +1,21 @@
+/* Style the body */
+body {
+    font-family: sans-sarif;
+    margin: 0;
+  }
+  
+  /* Header/Logo Title */
+  .header {
+    padding: 50px;
+    text-align: center;
+    background: #FAF7CC;
+    color: black;
+    font-size: 30px;
+  }
+  
+  /* Page Content */
+  .content {padding:20px;
+  text-align: center; 
+    font-size: 20px 
+  }
+    
